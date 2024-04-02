@@ -1,2 +1,2 @@
 print("Hola Mundo")
-alert("Hola2")
+alert("Hola")
